@@ -27,4 +27,8 @@ Pasos:
 - ```git switch -c <NAME>``` -> Crear y meterse en una nueva rama
 - ```git merge <TAG>``` -> Fusionar ramas 
 - ```git merge --abort``` -> Abortar proceso de fusión
+- ```git remote add origin <URL.git>``` -> Vincular con el repositorio 
+- ```git remote remove origin``` -> Desvincular del repositorio
+- ```git push origin main``` -> Subir a origin la raiz main (Github)
+- ```git push --tags``` -> Subir las etiquetas a Github
 ---------------
