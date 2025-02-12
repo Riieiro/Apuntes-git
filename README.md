@@ -13,7 +13,7 @@
 - ```git commit -m "<TEXT>"``` -> Subimos el cambio a github
 - ```git log``` -> Muestra el registro de todos los cambios
 - ```git log --oneline``` -> En una línea muestra el registro de una manera acortada
-- ```git tag <HASH> <TAG>``` -> Creamos una etiqueta a un commit
+- ```git tag <TAG> <HASH>``` -> Creamos una etiqueta a un commit
 - ```git checkout <TAG>``` -> Retrocedemos al commit que queramos 
 - ```git switch -``` -> Volver a la rama principal
 - ```git switch -c <NAME>``` -> Crear y meterse en una nueva rama
