@@ -21,6 +21,6 @@
 - ```git merge --abort``` -> Abortar proceso de fusión
 - ```git remote add origin <URL.git>``` -> Vincular con el repositorio 
 - ```git remote remove origin``` -> Desvincular del repositorio
-- ```git push origin main``` -> Subir a origin la raiz main (Github)
+- ```git push origin main``` -> Subir a origin la rama main (Github)
 - ```git push --tags``` -> Subir las etiquetas a Github
 ---------------
