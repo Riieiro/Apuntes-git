@@ -1,14 +1,6 @@
 # Proyecto IAW - GIT/Github
 
-## Desde casa
-
-Pasos:
-1. git init 
-2. git branch -M main
-3. git status
-4. editar fichero README.md
-5. git add .
-------------
+---------------
 ## Vincular GIT con Github
 - ```git config --global user.name "<NOMBRE>"```
 - ```git config --global user.mail "<EMAIL>"```
